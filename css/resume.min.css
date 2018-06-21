@@ -22,3 +22,13 @@ body{
 }a:active,a:focus,a:hover{
 	color: #0F7E88
 }
+
+a.download {
+	
+	padding-left: 50px;
+	padding-top: 80px;
+	color: #13A5B0;
+	font-size:14px;
+	font-family: 'Saira Extra Condensed', serif;
+	
+}
